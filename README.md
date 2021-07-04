@@ -1,2 +1,8 @@
 # GIS-And-Remote-Sensing
-SIG y Teledetección
+
+* **Asignatura**: SIG y Teledetección
+* MASTER OFICIAL EN SISTEMAS DE INFORMACIÓN GEOGRÁFICA Y TELEDETECCIÓN
+* **Curso**: PRIMERO
+* FACULTAD DE FILOSOFÍA Y LETRAS, UNIVERSIDAD DE EXTREMADURA
+* :es:
+
